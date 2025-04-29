@@ -23,4 +23,14 @@ variable "Environment" {
   
 }
 
-#faafadada
+variable "aws_access_key" {
+  description = "clave de acceso para la instancia ec2"
+  default = "niguna"
+  
+}
+variable "aws_secret_key" {
+  description = "clave secreta para la instancia ec2"
+  default = "ninguna"
+  
+}
+
