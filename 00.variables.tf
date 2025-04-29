@@ -2,7 +2,7 @@
 
 variable "ami_id" {
   description = "ID de la instancia ec2"
-  default = "ami-0c55b159cbfafe1f0" # ami de ubuntu 20.04
+  default = "ami-0e449927258d45bc4" # ami de ubuntu 20.04
   
 }
 
